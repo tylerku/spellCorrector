@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpellCorrector for Android!</string>
+    <string name="null_message">You didn\'t set the studentController to an instance of your class that
+        implements ISpellCorrector. Look at the TODOs by finding the TODO button at
+        the bottom of the Android Studio IDE.
+        Follow it to the line that indicate where to set studentController = to a
+        new instance of your class!</string>
+    <string name="loading_message">Loading the dictionary file. Depending on the file\'s size this can take
+        up to a full minute.</string>
+    <string name="spellCheckerLabel">Check a word!</string>
+    <string name="mainActivityLabel">Pick a dictionary file to use</string>
+</resources>
